@@ -1,0 +1,16 @@
+Armstrong, 153 
+Factorial, 20
+Palindrome, 1234321
+Factorial, 43
+Palindrome, 12341234
+Palindrome, ABCDEDCBA 
+Armstrong, 8208
+Palindrome, 4567887654 
+Armstrong, 2104
+Factorial, 15
+Armstrong, 4210818 
+Factorial, 120
+Armstrong, 345321 
+Factorial, 543
+Palindrome, XYZZYX
+Factorial, 7
